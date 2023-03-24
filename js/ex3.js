@@ -5,7 +5,7 @@
 
 // Create an array containing three objects
 const traveler = {
-    name: "Sam",
+    name: "Khanh Linh",
     countries: [
         {
             name: "Canada",
